@@ -4,4 +4,4 @@ Presented in the form of iPython Notebooks.
 
 ## Contents
 - Data Analysis and Visualisation
-  * Pokémon Stats EDA
+  * [Pokémon Stats EDA](https://github.com/Iqrar99/data-science-portfolio/blob/master/Pok%C3%A9mon%20Stats%20EDA.ipynb)
