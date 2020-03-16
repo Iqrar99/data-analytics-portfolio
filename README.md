@@ -3,7 +3,7 @@ Repository containing portfolio of data science projects completed by me (and so
 Presented in the form of iPython Notebooks.
 
 ## Contents
-- Data Analysis and Visualisation [Kaggle.com]
+- Data Analysis and Visualization [Kaggle.com]
   * [Pokémon Stats EDA \[ENG\]:](https://nbviewer.jupyter.org/github/Iqrar99/data-science-portfolio/blob/master/Pok%C3%A9mon%20Stats%20EDA.ipynb) This dataset includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids.
   * [Ramen Ratings EDA \[ENG\]:](https://nbviewer.jupyter.org/github/Iqrar99/data-science-portfolio/blob/master/ramen-ratings-eda.ipynb) Each record in the dataset is a single ramen product review. Review numbers are contiguous: more recently reviewed ramen varieties have higher numbers. Brand, Variety (the product name), Country, and Style (Cup? Bowl? Tray?) are pretty self-explanatory. Stars indicate the ramen quality, as assessed by the reviewer, on a 5-point scale.
   * [Lokasi Mudik Karyawan \[IDN\]:](https://nbviewer.jupyter.org/github/Iqrar99/data-science-portfolio/blob/master/Lokasi%20Mudik%20Karyawan.ipynb) This dataset covers the Jabodetabek area, employee homecoming time, employee profession, the dominant area of the employee at a time, gender, and age. <br>Thank you my teammates ([Rony Agus Vian](https://www.linkedin.com/in/ronyagusvian/) and [Fransiscus Emmanuel Bunaren](https://www.linkedin.com/in/fransiscus-emmanuel-bunaren-ba4084192/)) for completing this notebook.
