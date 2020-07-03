@@ -3,7 +3,7 @@ This repositor is containing portfolio of data science projects completed by me 
 Presented in the form of iPython Notebooks.
 
 ## Contents
-- Data Analysis and Visualization [Kaggle.com]
+- Data Analysis and Visualization [[Kaggle.com](https://www.kaggle.com/)]
   * [Pokémon Stats EDA \[ENG\]](https://github.com/Iqrar99/data-science-portfolio/blob/master/Pok%C3%A9mon%20Stats%20EDA.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iqrar99/data-science-portfolio/blob/master/Pok%C3%A9mon%20Stats%20EDA.ipynb)
 
