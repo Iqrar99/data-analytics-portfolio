@@ -15,6 +15,7 @@ Presented in the form of iPython Notebooks.
   * [Lokasi Mudik Karyawan \[IDN\]](https://github.com/Iqrar99/data-science-portfolio/blob/master/Lokasi%20Mudik%20Karyawan.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iqrar99/data-science-portfolio/blob/master/Lokasi%20Mudik%20Karyawan.ipynb)
   
+  This notebook was for participating in Data Science Academy Compfest 2019 selection. 
   Thank you my teammates ([Rony Agus Vian](https://www.linkedin.com/in/ronyagusvian/) and [Fransiscus Emmanuel Bunaren](https://www.linkedin.com/in/fransiscus-emmanuel-bunaren-ba4084192/)) for completing this notebook.
   * [Student Performance in Exams \[ENG\]](https://github.com/Iqrar99/data-science-portfolio/blob/master/student-performance-in-exams.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iqrar99/data-science-portfolio/blob/master/student-performance-in-exams.ipynb)
