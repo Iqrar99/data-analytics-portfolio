@@ -32,3 +32,9 @@ Presented in the form of iPython Notebooks.
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iqrar99/data-science-portfolio/blob/master/ghouls-goblins-and-ghosts-voting-classifier.ipynb)
 
   Based on the entity characteristics, we should classify them. Some ensemble models used to predict the dataset and combined them using Voting Classifier.
+
+  * [Doing Sentiment Analysis for Disneyland Reviews data and predicting the rating using Convolutional Neural Network](https://github.com/Iqrar99/data-science-portfolio/blob/master/Disney-Land-Reviews.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iqrar99/data-science-portfolio/blob/master/Disney-Land-Reviews.ipynb)
+  
+  The dataset includes information related to reviews addressed by the customers and the venue rating.
+  
